@@ -1,3 +1,4 @@
+[![headline](https://img.shields.io/badge/java%20-project-brightgreen.svg?style=flat-square)](https://github.com/Soluvent/Task_1-FizzBuzz)
 # Лабораторна робота №1  Знайомство з базовим синтаксисом та операторами Java
 У цій лабораторній роботі ми знайомимось з основами синтаксису Java, операторами та функціями. Метою є практичне освоєння простих операцій і конструкцій Java.
 

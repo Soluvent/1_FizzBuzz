@@ -1,4 +1,4 @@
-<h1 align="center"> Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java 
+<h1 align="wide"> Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java 
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
@@ -16,8 +16,9 @@
 <h3 align="wide"> ⚡ Реалізація коду
 
 <h4 align="wide"> Завдання 1: Функція isNonDecreasing
-
+<h4 align="wide">
 Ця функція перевіряє, чи є масив незменшуваним (тобто кожен елемент більший або дорівнює попередньому).
+<h4 align="wide">
 
 ```java
 private static boolean isNonDecreasing(int[] arr) { 
@@ -31,8 +32,9 @@ private static boolean isNonDecreasing(int[] arr) {
 }
 ```
 <h4 align="wide"> Завдання 2: FizzBuzz
-
+<h4 align="wide">
 Функція FizzBuzz виводить числа від 1 до 100, замінюючи числа, кратні 3, на "Fizz", кратні 5 — на "Buzz", а кратні і 3, і 5 — на "FizzBuzz".
+<h4 align="wide">
 
 ```java
 private static void fizzBuzz() {
@@ -51,8 +53,9 @@ private static void fizzBuzz() {
 ```
 
 <h4 align="wide"> Завдання 3: Функція canBalance
-
+<h4 align="wide">
 Ця функція перевіряє, чи можна розділити масив так, щоб суми елементів у двох частинах були рівними.
+<h4 align="wide">
 
 ```java
 private static boolean canBalance(int[] arr) {

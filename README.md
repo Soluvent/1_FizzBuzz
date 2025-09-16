@@ -1,4 +1,8 @@
-<h1 align="wide"> Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java 
+<p align="wide">
+    <img width="1756" height="856" alt="carbon" src="https://github.com/user-attachments/assets/77fc05cd-20c3-4173-bcc5-dcfb965de7d0" />
+</p>
+
+<h1 align="center"> Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java 
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)

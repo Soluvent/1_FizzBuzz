@@ -1,13 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        // 1
         int[] arr1 = {1, 2, 2, 3};
         System.out.print("isNonDecreasing: " + isNonDecreasing(arr1) + "\n");
-
-        // 2
         fizzBuzz();
-
-        // 3
         int[] arr2 = {1, 1, 1, 2, 1};
         System.out.print("canBalance: " + canBalance(arr2) + "\n");
     }

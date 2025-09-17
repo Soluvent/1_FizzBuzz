@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="1850" height="780" alt="carbon (4)" src="https://github.com/user-attachments/assets/267f3756-b859-41c4-b2cc-e95d4e168730" />
+<img width="1782" height="618" alt="carbon (4)" src="https://github.com/user-attachments/assets/561927b3-9e0a-4bda-8776-8a01a8ad62e3" />
 </p>
 
-# Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java
+# `Лабораторна робота` `№1` `Знайомство з базовим синтаксисом та операторами Java`
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 [![](https://img.shields.io/badge/-@Soluvent-%23181717?style=round-square&logo=github)](https://github.com/Soluvent)
@@ -11,15 +11,15 @@
 [![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/1_FizzBuzz/edit/master/README.md)
 
 
-## 📝 Завдання 📝
+## `📝 Завдання 📝`
 
-### 1. Написати метод, який перевіряє, чи є масив цілих чисел незменшуваним [^1].
+- [x] **Написати метод, який перевіряє, чи є масив цілих чисел незменшуваним [^1].**
 
-### 2. Реалізувати відому дитячу гру FizzBuzz, яка виводить числа від 1 до 100. Для чисел, кратних 3, виводимо `Fizz`, для чисел, кратних 5, — `Buzz`, а для чисел, кратних одночасно і 3, і 5 — `FizzBuzz`.
+- [x] **Реалізувати відому дитячу гру FizzBuzz, яка виводить числа від 1 до 100. Для чисел, кратних 3, виводимо `Fizz`, для чисел, кратних 5, — `Buzz`, а для чисел, кратних одночасно і 3, і 5 — `FizzBuzz`.**
 
-### 3. Написати метод, який перевіряє, чи можна розділити масив на дві частини з рівними сумами елементів.
+- [x] **Написати метод, який перевіряє, чи можна розділити масив на дві частини з рівними сумами елементів.**
 
-## 🛠 Реалізація коду 🛠
+## `🛠 Реалізація коду 🛠`
 
 ### **Завдання 1: Функція isNonDecreasing**
 > [!NOTE]
@@ -97,7 +97,7 @@ private static boolean canBalance(int[] arr) {
 }
 ```
 
-## 🚀 Запуск та приклад виводу 🚀
+## `🚀 Запуск та приклад виводу 🚀`
 
 <h4 align="wide">
 

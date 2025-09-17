@@ -3,19 +3,19 @@
 </p>
 
 # Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java
- 
-[![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/1_FizzBuzz/edit/master/README.md)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+
+[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 [![](https://img.shields.io/badge/-@Soluvent-%23181717?style=round-square&logo=github)](https://github.com/Soluvent)
-[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true) 
-![Java](https://camo.githubusercontent.com/8bb8fdb82f837f0739cf8c67a204225a096be9f7689646c39ef9d215598db51d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3342343235323f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d443038373730)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C38330?style=flat&logo=openjdk&logoColor=white)
+[![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/1_FizzBuzz/edit/master/README.md)
 
 
 ## 📝 Завдання 📝
 
-### 1. Написати метод, який перевіряє, чи є масив цілих чисел незменшуваним (кожен елемент більший або дорівнює попередньому).
+### 1. Написати метод, який перевіряє, чи є масив цілих чисел незменшуваним [^1].
 
-### 2. Реалізувати відому дитячу гру FizzBuzz, яка виводить числа від 1 до 100. Для чисел, кратних 3, виводимо "Fizz", для чисел, кратних 5, — "Buzz", а для чисел, кратних одночасно і 3, і 5 — "FizzBuzz".
+### 2. Реалізувати відому дитячу гру FizzBuzz, яка виводить числа від 1 до 100. Для чисел, кратних 3, виводимо `Fizz`, для чисел, кратних 5, — `Buzz`, а для чисел, кратних одночасно і 3, і 5 — `FizzBuzz`.
 
 ### 3. Написати метод, який перевіряє, чи можна розділити масив на дві частини з рівними сумами елементів.
 
@@ -23,7 +23,7 @@
 
 ### **Завдання 1: Функція isNonDecreasing**
 > [!NOTE]
-> Ця функція перевіряє, чи є масив незменшуваним[^1].
+> Ця функція перевіряє, чи є масив незменшуваним [^1].
 > 
 > [^1]: Тобто кожен елемент більший або дорівнює попередньому
 

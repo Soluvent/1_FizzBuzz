@@ -2,13 +2,13 @@
     <img width="1850" height="780" alt="carbon (4)" src="https://github.com/user-attachments/assets/267f3756-b859-41c4-b2cc-e95d4e168730" />
 </p>
 
-<h1 align="wide"> Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java 
-    
+# **Лабораторна робота №1 Знайомство з базовим синтаксисом та операторами Java**
+ 
 [![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/1_FizzBuzz/edit/master/README.md)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+[![](https://img.shields.io/badge/-@Soluvent-%23181717?style=round-square&logo=github)](https://github.com/Soluvent)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/1NIo0uQZx1ap_xJ_yjLPC1o3eIsxOCFn3/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true) 
 ![Java](https://camo.githubusercontent.com/8bb8fdb82f837f0739cf8c67a204225a096be9f7689646c39ef9d215598db51d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3342343235323f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d443038373730)
-
 
 ## 📜 Завдання
 

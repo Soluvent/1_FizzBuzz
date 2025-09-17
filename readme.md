@@ -1,3 +1,4 @@
+<sup>📒 Readme ver 2.0 17.09.2025 13:20<sup/>
 <p align="center">
 <img width="1782" height="618" alt="carbon (4)" src="https://github.com/user-attachments/assets/561927b3-9e0a-4bda-8776-8a01a8ad62e3" />
 </p>
@@ -85,7 +86,6 @@ private static void fizzBuzz() {
     }
 }
 ```
-
 ### **Завдання 3: Функція canBalance**
 > [!NOTE]
 > Ця функція перевіряє, чи можна розділити масив так, щоб суми елементів у двох частинах були рівними :
@@ -136,4 +136,3 @@ Buzz
 ...
 canBalance: true
 ```
-Readme ver 2.0

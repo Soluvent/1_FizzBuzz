@@ -1,6 +1,6 @@
 <sup>📒 Readme ver 2.0 17.09.2025 13:20<sup/>
 <p align="center">
-<img width="1782" height="618" alt="carbon (4)" src="https://github.com/user-attachments/assets/561927b3-9e0a-4bda-8776-8a01a8ad62e3" />
+<img width="3680" height="1564" alt="FizzBuzz (1)" src="https://github.com/user-attachments/assets/8aca3a0c-2555-41a6-8ed8-15cd9bad8afa" />
 </p>
 
 # `Лабораторна робота` `№1` `Знайомство з базовим синтаксисом та операторами Java`

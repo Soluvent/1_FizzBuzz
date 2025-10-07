@@ -1,4 +1,4 @@
-<sup>📒 Readme ver 2.0 17.09.2025 13:20<sup/>
+<sup>📒 Readme ver 2.0 30.09.2025 13:20<sup/>
 <p align="center">
 <img width="3680" height="1564" alt="FizzBuzz (1)" src="https://github.com/user-attachments/assets/8aca3a0c-2555-41a6-8ed8-15cd9bad8afa" />
 </p>
